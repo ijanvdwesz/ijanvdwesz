@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ijanvdwesz
+- 👀 I’m interested in web development and software engineering
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on any relevant for practice purposes
+- 📫 ijanvdwestz@gmail.com
